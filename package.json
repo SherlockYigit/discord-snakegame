@@ -1,0 +1,29 @@
+{
+  "name": "discord-snakegame",
+  "version": "1.0.0",
+  "description": "It's easier to make a snake game now!",
+  "main": "index.js",
+  "scripts": {
+    "test": "node index.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/SherlockYigit/discord-snakegame.git"
+  },
+  "keywords": [
+    "snake-game",
+    "snake",
+    "game",
+    "snakegame",
+    "discord",
+    "discordbots",
+    "bot",
+    "discordbot"
+  ],
+  "author": "SherlockYigit",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/SherlockYigit/discord-snakegame/issues"
+  },
+  "homepage": "https://github.com/SherlockYigit/discord-snakegame#readme"
+}
